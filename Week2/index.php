@@ -30,8 +30,8 @@
     // PRINT-R function
     print_r($marks);
     // associative array
-    $collection = array( "id" => "C1230946","class" => "ca2313","semester"=> 7)
-        foreach ($collecion as $list) {
+    $collection = array( "id" => "C1230946","class" => "ca2313","semester"=> 7);
+        foreach ($collection as $list) {
             echo"$list";
         };
         
